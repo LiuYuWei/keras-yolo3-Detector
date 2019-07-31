@@ -1,0 +1,8 @@
+md5: 726f2e471c107a8839f318d7cbfcac46
+wdir: ../../..
+outs:
+- md5: c84e5b99d0e52cd466ae710cadf6d84c
+  path: util/keras_model_transfer/pretrained/yolov3.weights
+  cache: true
+  metric: false
+  persist: false

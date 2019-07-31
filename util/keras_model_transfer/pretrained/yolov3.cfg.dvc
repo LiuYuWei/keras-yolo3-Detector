@@ -1,0 +1,8 @@
+md5: 3500ee8a2c06f9580915f82554b18bec
+wdir: ../../..
+outs:
+- md5: 8800a001fbce817534a078532685bbd0
+  path: util/keras_model_transfer/pretrained/yolov3.cfg
+  cache: true
+  metric: false
+  persist: false

@@ -1,0 +1,8 @@
+md5: 5007c88d0d363e6e9a3e380045fa8b35
+wdir: ../../..
+outs:
+- md5: 54de3dea5b2e03377f700a766fdded1c
+  path: util/keras_model_transfer/original/darknet53.cfg
+  cache: true
+  metric: false
+  persist: false

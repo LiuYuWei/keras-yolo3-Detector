@@ -1,0 +1,8 @@
+md5: ee92f8ce1befe5bb7ee1f351e3c18e44
+wdir: ../../..
+outs:
+- md5: aee948e0037491ba7c8d60ba8aabff57
+  path: util/keras_model_transfer/original/darknet53.weights
+  cache: true
+  metric: false
+  persist: false

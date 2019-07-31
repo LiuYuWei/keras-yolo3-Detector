@@ -1,0 +1,8 @@
+md5: 76df59fdec732e1a435a8efd06904dbd
+wdir: ../..
+outs:
+- md5: 6845d146ea0923c32b24f9263a22cf75
+  path: util/keras_model_transfer/convert.py
+  cache: true
+  metric: false
+  persist: false
