@@ -20,9 +20,9 @@ from keras.utils import multi_gpu_model
 
 class YOLO(object):
     _defaults = {
-        "model_path":'C:/Users/admin/Desktop/keras-yolo-v3-Detector/data/model/yolo.h5',
-        "anchors_path":'C:/Users/admin/Desktop/keras-yolo-v3-Detector/data/model/anchors/yolo_anchors.txt',
-        "classes_path":'C:/Users/admin/Desktop/keras-yolo-v3-Detector/data/model/classes/coco_classes.txt',
+        "model_path":'C:/Users/admin/Desktop/keras-yolo3-Detector/data/model/yolo.h5',
+        "anchors_path":'C:/Users/admin/Desktop/keras-yolo3-Detector/data/model/anchors/yolo_anchors.txt',
+        "classes_path":'C:/Users/admin/Desktop/keras-yolo3-Detector/data/model/classes/coco_classes.txt',
         "score" : 0.3,
         "iou" : 0.45,
         "model_image_size" : (416, 416),
