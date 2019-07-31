@@ -1,0 +1,8 @@
+md5: 0122cb6cc6ab73ec9c9d14504ecb15dc
+wdir: ../../..
+outs:
+- md5: 8fc50561361f8bcf96b0177086e7616c
+  path: data/model/classes/coco_classes.txt
+  cache: true
+  metric: false
+  persist: false

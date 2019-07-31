@@ -1,0 +1,8 @@
+md5: bafcf6a6e6c311d1a7036a1ed9355a26
+wdir: ../..
+outs:
+- md5: bb0a325746b7911c3056681bafd1280f
+  path: data/model/yolo.h5
+  cache: true
+  metric: false
+  persist: false

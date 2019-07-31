@@ -1,0 +1,8 @@
+md5: 4aa23d35c75d8428dede36b3add60f04
+wdir: ../..
+outs:
+- md5: c47129cce0c71db9bab0e8ccc9adf094
+  path: data/model/darknet53_weights.h5
+  cache: true
+  metric: false
+  persist: false

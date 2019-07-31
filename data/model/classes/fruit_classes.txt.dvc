@@ -1,0 +1,8 @@
+md5: 39de992b082730192e30a36fca455397
+wdir: ../../..
+outs:
+- md5: 175af00d5b3cc8d3d1a361892b72c1a6
+  path: data/model/classes/fruit_classes.txt
+  cache: true
+  metric: false
+  persist: false

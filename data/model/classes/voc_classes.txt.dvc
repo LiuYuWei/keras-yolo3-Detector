@@ -1,0 +1,8 @@
+md5: af0faa5891a0781c9a9340eb4aadac36
+wdir: ../../..
+outs:
+- md5: 5ae5d62183cfb6f6d3ac109359d06a1b
+  path: data/model/classes/voc_classes.txt
+  cache: true
+  metric: false
+  persist: false

@@ -1,0 +1,8 @@
+md5: 9b8f964efb459a9560309fe37100ac83
+wdir: ../../..
+outs:
+- md5: bbcc7b317f3c1e1a5c9c3880bb39df85
+  path: data/model/anchors/yolo_anchors.txt
+  cache: true
+  metric: false
+  persist: false
