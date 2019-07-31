@@ -1,0 +1,8 @@
+md5: 3f44990cc670d9d4e06f58761694418d
+wdir: ../../..
+outs:
+- md5: e0e864e852b91b8f0adbd2a942e429ea
+  path: data/source/yolo/banana2.txt
+  cache: true
+  metric: false
+  persist: false

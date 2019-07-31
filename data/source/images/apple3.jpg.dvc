@@ -1,0 +1,8 @@
+md5: 1cc22df1bf0cf4af0516a14f971cd903
+wdir: ../../..
+outs:
+- md5: 493ea0fd17da8c33a7ce5887d46e9a9d
+  path: data/source/images/apple3.jpg
+  cache: true
+  metric: false
+  persist: false

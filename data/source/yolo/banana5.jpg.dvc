@@ -1,0 +1,8 @@
+md5: 0d1372e6bc9e2d9508f9d566bfa54f94
+wdir: ../../..
+outs:
+- md5: d6e6cb02c32dabe3fa8c1119ebe99812
+  path: data/source/yolo/banana5.jpg
+  cache: true
+  metric: false
+  persist: false

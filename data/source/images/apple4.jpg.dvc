@@ -1,0 +1,8 @@
+md5: 248972855d0a81ebd7da4d130d139350
+wdir: ../../..
+outs:
+- md5: 81fe8fcf008e31f1b07a9f1a276fc64b
+  path: data/source/images/apple4.jpg
+  cache: true
+  metric: false
+  persist: false

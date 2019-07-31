@@ -1,0 +1,8 @@
+md5: 0f32974e4c99235eba8bdbc109cf0cd9
+wdir: ../../..
+outs:
+- md5: e28ba9a621b24a30167e0471819fe709
+  path: data/source/images/apple2.jpg
+  cache: true
+  metric: false
+  persist: false

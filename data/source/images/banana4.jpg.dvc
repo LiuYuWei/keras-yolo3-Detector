@@ -1,0 +1,8 @@
+md5: f3cc3800700e4b36e039276e808d5976
+wdir: ../../..
+outs:
+- md5: d9618622ced89924baff5598c719b1cc
+  path: data/source/images/banana4.jpg
+  cache: true
+  metric: false
+  persist: false

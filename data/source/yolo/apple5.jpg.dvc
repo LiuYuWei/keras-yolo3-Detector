@@ -1,0 +1,8 @@
+md5: 42300eabefa5fcd8ed360a589669d443
+wdir: ../../..
+outs:
+- md5: 537032f398bf58b301173700079c6ca2
+  path: data/source/yolo/apple5.jpg
+  cache: true
+  metric: false
+  persist: false

@@ -1,0 +1,8 @@
+md5: 1e758c2620f47063f4d2fc33644f4248
+wdir: ../../..
+outs:
+- md5: 0d2e92b22300d95b807b15e42696c0eb
+  path: data/source/cfg/train.txt
+  cache: true
+  metric: false
+  persist: false

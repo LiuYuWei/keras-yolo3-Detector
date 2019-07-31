@@ -1,0 +1,8 @@
+md5: 0c58d5ebf0dcbaa2537e3e7b8c4cb980
+wdir: ../../..
+outs:
+- md5: 493ea0fd17da8c33a7ce5887d46e9a9d
+  path: data/source/yolo/apple3.jpg
+  cache: true
+  metric: false
+  persist: false

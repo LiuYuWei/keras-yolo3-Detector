@@ -1,0 +1,8 @@
+md5: e03109081fbb84a246ece6105d1c8d7b
+wdir: ../../..
+outs:
+- md5: d9b71b1e0c4509c73038201d8c25a630
+  path: data/source/yolo/apple1.txt
+  cache: true
+  metric: false
+  persist: false
