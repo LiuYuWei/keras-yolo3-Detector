@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = c:\Users\admin\Desktop\keras-yolo3-Detector\dvc-file
+[core]
+remote = myremote
